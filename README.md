@@ -1,9 +1,8 @@
-# 🎥 UNIVERSAL CINEMA 🌟
 
 ## Licencia
 <div align="center">
     <h1><b></b></h1>
-    <h1><b>Programación y Algoritmia<br>Clase 04 - Condicionales</b></h1>
+    <h1><b>🎥 UNIVERSAL CINEMA 🌟</b></h1>
     <img alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/AlDiSi/refs/heads/main/images/Logo%20AlDiSi_Horizontal%20UdeA%20II.png">
 </div>
 
