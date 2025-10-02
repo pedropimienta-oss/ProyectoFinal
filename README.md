@@ -1,5 +1,3 @@
-
-## Licencia
 <div align="center">
     <h1><b></b></h1>
     <h1><b>🎥 UNIVERSAL CINEMA 🌟</b></h1>
@@ -9,10 +7,10 @@
 <hr size="10" noshade color="green">
 
 <div>
-    <img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png">
-    <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
-    <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
-    <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
+    <img alt="CC" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0//juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png">
+    <img alt="Attribution" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0//juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
+    <img alt="NC" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0//juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
+    <img alt="SA" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0//juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
 
 ## 👥 Integrantes
 **Veronika Calvache** 
