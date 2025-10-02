@@ -65,7 +65,6 @@ Fortalezas:
 > El sistema contará con 121 asientos disponibles y tarifas diferenciadas según el tipo de usuario (estudiantes, docentes, administrativos, oficiales internos y público externo).
 <div align="center">
     <h1><b></b></h1>
-    <h1><b>🎥 UNIVERSAL CINEMA 🌟</b></h1>
     <img alt="I&S" height="350px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png">
 ---
  
