@@ -8,7 +8,7 @@
 
 <div>
     <img alt="CC" height="70px" src="https://raw.githubusercontent.com/pedropimienta-udea/2025-2/main/images/by.xlarge.png">
-    <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
+    <img alt="Attribution" height="70px" src="https://play-lh.googleusercontent.com/EG5quV4kepCihbex3ba7GRoqiA3ra__5J1-O6cNTVq_YUiYqEJ6KbVhqSiJpY6igrjE5/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
     <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
     <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
 
