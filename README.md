@@ -1,11 +1,8 @@
 <div align="center">
     <h1><b></b></h1>
     <h1><b>🎥 UNIVERSAL CINEMA 🌟</b></h1>
-    <img alt="I&S" height="150px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png">
-     <img alt="CC" height="70px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png/main/images/by.xlarge.png">
-    <img alt="Attribution" height="70px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png/main/images/nc.xlarge.png">
-    <img alt="NC" height="70px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png/main/images/sa.xlarge.png">
-    <img alt="SA" height="70px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png/main/images/cc-icons.png">
+    <img alt="I&S" height="150px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema/xlarge.png">
+    
 </div>
 
 <hr size="10" noshade color="green">
