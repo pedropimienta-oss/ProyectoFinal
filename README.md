@@ -1,7 +1,7 @@
 <div align="center">
     <h1><b></b></h1>
     <h1><b>🎥 UNIVERSAL CINEMA 🌟</b></h1>
-    <img alt="I&S" height="250px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png">
+    <img alt="I&S" height="350px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png">
     
 </div>
 
