@@ -63,6 +63,10 @@ Fortalezas:
 
 > El *Cinema Estelar UdeA* es un programa de consola en Python diseñado para gestionar un cinema universitario dentro de la Universidad de Antioquia. Este sistema permitirá a la comunidad universitaria acceder a un espacio cinematográfico los fines de semana, gestionando de manera digital y sencilla el proceso de reservas y administración del servicio. Permite registrar usuarios, consultar la disponibilidad de películas, crear y cancelar reservas, imprimir facturas y generar reportes de ingresos y servicios.
 > El sistema contará con 121 asientos disponibles y tarifas diferenciadas según el tipo de usuario (estudiantes, docentes, administrativos, oficiales internos y público externo).
+<div align="center">
+    <h1><b></b></h1>
+    <h1><b>🎥 UNIVERSAL CINEMA 🌟</b></h1>
+    <img alt="I&S" height="350px" src="https://i.postimg.cc/fLqMVc1t/logo-universal-cinema.png">
 ---
  
 ## 🔭Reporte de vision    
