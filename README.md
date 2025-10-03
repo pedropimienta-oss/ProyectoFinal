@@ -13,6 +13,12 @@
     <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
     <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
 
+---
+
+ **📽"DONDE TODAS LAS HISTORIAS TIENEN LUGAR..."**
+
+ ---
+
 ## 👥 Integrantes
 **Veronika Calvache** 
 >* Lider del proyecto, organiza tiempos y distribucion de tareas. Documentador (escribe el Readme, redacta las actas).
