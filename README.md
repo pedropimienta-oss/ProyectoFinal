@@ -13,7 +13,10 @@
     <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
     <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
     
+<div align="right">
+    <img height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0/#:~:text=Attribution%2DNonCommercial%2DShareAlike%204.0%20International">
 
+    
 ---
 
 <div align="center">
