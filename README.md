@@ -12,8 +12,8 @@
     <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
     <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
     <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
-    <div align="right">
-    <h1><b>Attribution-NonCommercial-ShareAlike 4.0 International</b></h1>
+        <div align="right">
+            <h1><b>Attribution-NonCommercial-ShareAlike 4.0 International</b></h1>
     
 
 
