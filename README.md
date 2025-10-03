@@ -21,13 +21,13 @@
 
 ## 👥 Integrantes
 **Veronika Calvache** 
->* Lider del proyecto, organiza tiempos y distribucion de tareas. Documentador (escribe el Readme, redacta las actas).
+>* Soy una persona organizada, responsable y enfocada en el cumplimiento de metas y aprendizaje continuo. Me interesa fortalecer mis habilidades en programacion, redaccion tecnica y trabajo colaborativo. Me gusta aportar al trabajo en equipo desde la organizacion y planificacion.
 
 **Pedro Pimienta** 
 >* Encargado de repositorio GitHub, flujo principal del programa y estructura en Python.
 
 **Alejandro Torres** 
->* Evaluador del proyecto y responsable de la presentacion visual y organizacion clara del programa. 
+>* Soy un estudiante de ingeniería industrial que le interesa el desarrollo de soluciones que integren la tecnología con la gestión organizacional. Me motiva aprender sobre programación, así como adquirir habilidades que me permitan optimizar procesos académicos y profesionales.
 
 ---
 
@@ -38,14 +38,21 @@ Programa:
 - Ingenieria Industrial 
 
 Habilidades:
-- Organizacion y planificacion de tareas 
+- Organizacion y planificacion de tareas y de tiempo
 - Comunicacion efectiva con el equipo 
-- Atencion al detalle 
+- Atencion al detalle
+- Comunicación asertiva y escucha activa
+- Adaptabilidad frente a cambios y nuevos retos
+- Creatividad para proponer ideas y soluciones
 
 Fortalezas: 
 - Responsable y comprometido con los objetivos
-- Facilita coordinacion entre roles 
-- Motiva y guia al grupo en momentos de dificultad
+- Facilita coordinacion entre roles
+- Perseverancia para alcanzar metas
+- Dsiposicion para el aprendizaje continuo
+- Actitud positiva y constructiva en el trabajo grupal
+- Motiva y guia al grupo en momentos de dificultad
+
 
 ### 📌Pedro Pimienta 
 Programa: 
@@ -55,14 +62,21 @@ Habilidades:
 
 Fortalezas: 
 
+
 ### 📌Alejandro Torres
 Programa: 
 - Ingenieria Industrial 
 
 Habilidades:
+- Trabajo en equipo: me adapto fácilmente a la colaboración con diferentes compañeros, manteniendo una comunicación clara y respetuosa.
+- Aprendizaje rápido: me esfuerzo por adquirir conceptos nuevos y aplicarlos en diferentes contextos.
+- Pensamiento analítico: tengo facilidad para descomponer problemas en pasos más simples y encontrar soluciones lógicas.
 
 Fortalezas: 
-
+- Responsabilidad y compromiso: cumplo con los acuerdos y entregas en los tiempos establecidos
+- Constancia en el cumplimiento de metas
+- Disposición para asumir nuevos retos con actitud positiva
+  
 ---
 
 ## 🖥️Nombre del proyecto y detalles
