@@ -12,6 +12,7 @@
     <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
     <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
     <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
+     <img alt="I&S" height="70px" src="https://creativecommons.org/licenses/by-nc-sa/4.0/#:~:text=ShareAlike%204.0%20International-,CC%20BY%2DNC%2DSA%204.0,-Deed">
 
 ---
 
