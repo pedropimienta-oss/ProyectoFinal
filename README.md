@@ -24,7 +24,7 @@
 >* Soy una persona organizada, responsable y enfocada en el cumplimiento de metas y aprendizaje continuo. Me interesa fortalecer mis habilidades en programacion, redaccion tecnica y trabajo colaborativo. Me gusta aportar al trabajo en equipo desde la organizacion y planificacion.
 
 **Pedro Pimienta** 
->* Encargado de repositorio GitHub, flujo principal del programa y estructura en Python.
+>* Soy un estudiante de ingenieía, apasionado por la música, responsable, y enfocado en mis metas. Me intriga mi paso por la programación, pero es una aventura que quiero disfrutar, fortaleciendo mis habilidades en programación y aprendiendo a afrontar desafios técnicos. 
 
 **Alejandro Torres** 
 >* Soy un estudiante de ingeniería industrial que le interesa el desarrollo de soluciones que integren la tecnología con la gestión organizacional. Me motiva aprender sobre programación, así como adquirir habilidades que me permitan optimizar procesos académicos y profesionales.
@@ -60,7 +60,19 @@ Programa:
 
 Habilidades:
 
-Fortalezas: 
+- Aprendizaje rápido
+- Comunicación clara y asertiva
+- Pensamiento analítico
+- Responsabilidad y compromiso 
+- Adaptabilidad en distintos entornos
+
+Fortalezas:
+
+- Optimista
+- Empatatico con los demás
+- Automotivacíon
+- Paciente
+- Reflexivo 
 
 
 ### 📌Alejandro Torres
