@@ -103,9 +103,11 @@ Fortalezas:
 </div>
 
 
-## 🔭Reporte de vision    
-El Cinema Estelar UdeA es una solución tecnológica diseñada para modernizar la forma en que la comunidad universitaria accede a experiencias culturales dentro de la Universidad de Antioquia. Más que un sistema de reservas, el software funciona como una herramienta de gestión integral que combina el entretenimiento con la organización digital. 
-Nuestro diseño busca responder a las necesidades de administración de un cine universitario, ofreciendo un proceso sencillo, automatizado y confiable para el manejo de funciones, usuarios y reportes.
+## 🔭Reporte de vision 
+
+<p align="justify">
+    El Cinema Estelar UdeA es una solución tecnológica diseñada para modernizar la forma en que la comunidad universitaria accede a experiencias culturales dentro de la Universidad de Antioquia. Más que un sistema de reservas, el software funciona como una herramienta de gestión integral que combina el entretenimiento con la organización digital. 
+    Nuestro diseño busca responder a las necesidades de administración de un cine universitario, ofreciendo un proceso sencillo, automatizado y confiable para el manejo de funciones, usuarios y reportes.
 
 Objetivos: 
 - Ofrecer un sistema de registro y administracion de usuarios que maneje distintas categorias (estudiante, docente, administrativo, externo).
