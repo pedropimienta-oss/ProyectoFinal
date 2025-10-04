@@ -34,11 +34,11 @@ El equipo se compromete a crear un programa en Python que permita la gestión de
 
 **En constancia de aceptación de lo aquí estipulado, los integrantes firman la presente acta:**
 
-• 30/09/2025   Veronika Calvache Figueroa --> C.C: 1238940150 
+• 30/09/2025   *Veronika Calvache Figueroa* --> **C.C: 1238940150**
 
-• 30/09/2025   Pedro Pimienta Rodríguez --> C.C: 1119393417
+• 30/09/2025   *Pedro Pimienta Rodríguez* --> **C.C: 1119393417**
 
-• 30/09/2025 Alejandro Torres Agudelo --> C.C: 1022146196
+• 30/09/2025 *Alejandro Torres Agudelo* --> **C.C: 1022146196**
 
 ---
 ---
@@ -95,11 +95,11 @@ El grupo se reunirá al menos una vez por semana para revisar avances, discutir 
 
 **En constancia de aceptación de lo aquí estipulado, los integrantes firman la presente acta:**
 
-•	30/09/2025   Veronika Calvache Figueroa --> C.C: 1238940150 
+•	30/09/2025   *Veronika Calvache Figueroa* --> **C.C: 1238940150**
 
-•	30/09/2025   Pedro Pimienta Rodríguez --> C.C: 1119393417
+•	30/09/2025   *Pedro Pimienta Rodríguez* --> **C.C: 1119393417**
 
-•	30/09/2025 Alejandro Torres Agudelo --> C.C: 1022146196
+•	30/09/2025 *Alejandro Torres Agudelo* --> **C.C: 1022146196**
 
 ---
 ---
@@ -166,10 +166,10 @@ Definir las tareas específicas asignadas a cada integrante del grupo, establece
 
 **En constancia de aceptación de lo aquí estipulado, los integrantes firman la presente acta:**
 
-30/09/2025   Veronika Calvache Figueroa --> C.C: 1238940150 
+30/09/2025   *Veronika Calvache Figueroa* --> **C.C: 1238940150** 
 
-30/09/2025   Pedro Pimienta Rodríguez --> C.C: 1119393417
+30/09/2025   *Pedro Pimienta Rodríguez* --> **C.C: 1119393417**
 
-30/09/2025 Alejandro Torres Agudelo --> C.C: 1022146196
+30/09/2025 *Alejandro Torres Agudelo* --> **C.C: 1022146196**
 
 
