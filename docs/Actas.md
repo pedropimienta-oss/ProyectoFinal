@@ -43,7 +43,7 @@ El equipo se compromete a crear un programa en Python que permita la gestión de
 ---
 ---
 
-## Acta de conocimiento
+## Acta de colaboración
 
 **Proyecto:** UNIVERSAL CINEMA
 
