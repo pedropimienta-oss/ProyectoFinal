@@ -129,5 +129,13 @@ Beneficios:
 - Permite obtener informacion estadistica sobre la asistencia y los ingresos
 - Brinda a la comunidad universitaria un espacio cultural y recreativo.
 - El sistema puede adaptarse a futuras mejoras, como incluir mas salas, funciones o integracion con plataformas graficas
-- Se tiene una disponibilidad inmediata de la informacion ya que los datos se actualizan en tiempo real y estan listos para consultas instantaneas. 
+- Se tiene una disponibilidad inmediata de la informacion ya que los datos se actualizan en tiempo real y estan listos para consultas instantaneas.
+
+
+</div>
+---
+<div align="center">
+    <h1><b></b></h1>
+    <img alt="I&S" height="350px" src="https://i.postimg.cc/5tzHsFr9/Captura-de-pantalla-2025-10-07-214057.png">
+
 
