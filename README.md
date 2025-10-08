@@ -14,6 +14,9 @@
     <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
     <div align="right">
         LICENCIA: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+</div>
       
 ------
 <div align="center">
