@@ -32,7 +32,7 @@
 >* Soy un estudiante de ingenieía, apasionado por la música, responsable, y enfocado en mis metas. Me intriga mi paso por la programación, pero es una aventura que quiero disfrutar, fortaleciendo mis habilidades en programación y aprendiendo a afrontar desafios técnicos. 
 
 **Alejandro Torres** 
->* Soy un estudiante de ingeniería industrial que le interesa el desarrollo de soluciones que integren la tecnología con la gestión organizacional. Me motiva aprender sobre programación, así como adquirir habilidades que me permitan optimizar procesos académicos y profesionales.
+>* Soy un estudiante de ingeniería industrial responsable y que le gusta cumplir con todo, intento adaptarme a trabajar en equipo y mejorar más socialmente. Me interesa todo el tema de la programacion, ya que, soy una persona que le gusta asumir retos que lo impulsen a ser mejor.
 
 ---
 
@@ -85,12 +85,12 @@ Programa:
 - Ingeniería Industrial 
 
 Habilidades:
-- Trabajo en equipo: me adapto fácilmente a la colaboración con diferentes compañeros, manteniendo una comunicación clara y respetuosa.
-- Aprendizaje rápido: me esfuerzo por adquirir conceptos nuevos y aplicarlos en diferentes contextos.
+- Trabajo en equipo: intento adapatarme fácilmente.
+- Aprendizaje rápido: tengo buena capaciadad para retener información.
 - Pensamiento analítico: tengo facilidad para descomponer problemas en pasos más simples y encontrar soluciones lógicas.
 
 Fortalezas: 
-- Responsabilidad y compromiso: cumplo con los acuerdos y entregas en los tiempos establecidos
+- Responsabilidad y compromiso
 - Constancia en el cumplimiento de metas
 - Disposición para asumir nuevos retos con actitud positiva
   
