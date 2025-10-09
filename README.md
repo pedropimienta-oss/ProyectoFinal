@@ -144,15 +144,21 @@ Beneficios:
 # Presupuesto 
 
 **Veronika Calvache**
+
 Inversión por hora: $7115
+
 Inversión total del trabajo (50 horas): $355750
 
 **Alejandro Torres**
+
 Inversión por hora: $7115
+
 Inversión total del trabajo (50 horas): $355750
 
 **Pedro Pimienta**
+
 Inversión por hora: $7115
+
 Inversión total del trabajo (50 horas): $355750
 
 
