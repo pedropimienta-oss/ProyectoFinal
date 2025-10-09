@@ -203,7 +203,7 @@ Beneficios:
 
   
 
-# Plan proyecto
+# Plan de proyecto
 
 <div align="center">
     <h1><b></b></h1>
