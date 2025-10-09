@@ -138,4 +138,23 @@ Beneficios:
     <h1><b></b></h1>
     <img alt="I&S" height="350px" src="https://i.postimg.cc/5tzHsFr9/Captura-de-pantalla-2025-10-07-214057.png">
 
+</div>
+
+
+# Presupuesto 
+
+**Veronika Calvache**
+Inversión por hora: $7115
+Inversión total del trabajo (50 horas): $355750
+
+**Alejandro Torres**
+Inversión por hora: $7115
+Inversión total del trabajo (50 horas): $355750
+
+**Pedro Pimienta**
+Inversión por hora: $7115
+Inversión total del trabajo (50 horas): $355750
+
+
+
 
