@@ -26,7 +26,7 @@
 
 ## 👥 Integrantes
 **Veronika Calvache** 
->* Soy una persona organizada, responsable y enfocada en el cumplimiento de metas y aprendizaje continuo. Me interesa fortalecer mis habilidades en programacion, redaccion tecnica y trabajo colaborativo. Me gusta aportar al trabajo en equipo desde la organizacion y planificacion.
+>* Soy una persona organizada, responsable y enfocada en el cumplimiento de metas y aprendizaje continuo. Me interesa fortalecer mis habilidades en programación, redacción técnica y trabajo colaborativo. Me gusta aportar al trabajo en equipo desde la organización y planificación.
 
 **Pedro Pimienta** 
 >* Soy un estudiante de ingenieía, apasionado por la música, responsable, y enfocado en mis metas. Me intriga mi paso por la programación, pero es una aventura que quiero disfrutar, fortaleciendo mis habilidades en programación y aprendiendo a afrontar desafios técnicos. 
@@ -36,32 +36,32 @@
 
 ---
 
-## 👨‍🎓 Vinculos academicos y descripcion 
+## 👨‍🎓 Vínculos académicos y descripción 
 
 ### 📌Veronika Calvache 
 Programa: 
-- Ingenieria Industrial 
+- Ingeniería Industrial 
 
 Habilidades:
-- Organizacion y planificacion de tareas y de tiempo
-- Comunicacion efectiva con el equipo 
-- Atencion al detalle
+- Organización y planificación de tareas y de tiempo
+- Comunicación efectiva con el equipo 
+- Atención al detalle
 - Comunicación asertiva y escucha activa
 - Adaptabilidad frente a cambios y nuevos retos
 - Creatividad para proponer ideas y soluciones
 
 Fortalezas: 
 - Responsable y comprometido con los objetivos
-- Facilita coordinacion entre roles
+- Facilita coordinación entre roles
 - Perseverancia para alcanzar metas
-- Dsiposicion para el aprendizaje continuo
+- Dsiposición para el aprendizaje continuo
 - Actitud positiva y constructiva en el trabajo grupal
-- Motiva y guia al grupo en momentos de dificultad
+- Motiva y guía al grupo en momentos de dificultad
 
 
 ### 📌Pedro Pimienta 
 Programa: 
-- Ingenieria Industrial 
+- Ingeniería Industrial 
 
 Habilidades:
 
@@ -74,7 +74,7 @@ Habilidades:
 Fortalezas:
 
 - Optimista
-- Empatatico con los demás
+- Empático con los demás
 - Automotivacíon
 - Paciente
 - Reflexivo 
@@ -82,7 +82,7 @@ Fortalezas:
 
 ### 📌Alejandro Torres
 Programa: 
-- Ingenieria Industrial 
+- Ingeniería Industrial 
 
 Habilidades:
 - Trabajo en equipo: me adapto fácilmente a la colaboración con diferentes compañeros, manteniendo una comunicación clara y respetuosa.
@@ -99,7 +99,7 @@ Fortalezas:
 ## 🖥️Nombre del proyecto y detalles
 
 <p align="justify">
-    El Cinema Estelar UdeA* es un programa de consola en Python diseñado para gestionar un cinema universitario dentro de la Universidad de Antioquia. Este sistema permitirá a la comunidad universitaria acceder a un espacio cinematográfico los fines de semana, gestionando de manera digital y sencilla el proceso de reservas y administración del servicio. Permite registrar usuarios, consultar la disponibilidad de películas, crear y cancelar reservas, imprimir facturas y generar reportes de ingresos y servicios.
+    El UNIVERSAL Cinema es un programa de consola en Python diseñado para gestionar un cinema universitario dentro de la Universidad de Antioquia. Este sistema permitirá a la comunidad universitaria acceder a un espacio cinematográfico los fines de semana, gestionando de manera digital y sencilla el proceso de reservas y administración del servicio. Permite registrar usuarios, consultar la disponibilidad de películas, crear y cancelar reservas, imprimir facturas y generar reportes de ingresos y servicios.
     El sistema contará con 121 asientos disponibles y tarifas diferenciadas según el tipo de usuario (estudiantes, docentes, administrativos, oficiales internos y público externo).
 <div align="center">
     <h1><b></b></h1>
@@ -108,28 +108,28 @@ Fortalezas:
 </div>
 
 
-## 🔭Reporte de vision 
+## 🔭Reporte de visión 
 
 <p align="justify">
-    El Cinema Estelar UdeA es una solución tecnológica diseñada para modernizar la forma en que la comunidad universitaria accede a experiencias culturales dentro de la Universidad de Antioquia. Más que un sistema de reservas, el software funciona como una herramienta de gestión integral que combina el entretenimiento con la organización digital. 
+    El UNIVERSAL Cinema es una solución tecnológica diseñada para modernizar la forma en que la comunidad universitaria accede a experiencias culturales dentro de la Universidad de Antioquia. Más que un sistema de reservas, el software funciona como una herramienta de gestión integral que combina el entretenimiento con la organización digital. 
     Nuestro diseño busca responder a las necesidades de administración de un cine universitario, ofreciendo un proceso sencillo, automatizado y confiable para el manejo de funciones, usuarios y reportes.
 
 Objetivos: 
-- Ofrecer un sistema de registro y administracion de usuarios que maneje distintas categorias (estudiante, docente, administrativo, externo).
-- Controlar la disponibilidad de peliculas, horarios y funciones en tiempo real. 
-- Automatizar la gestion de reservas de entradas, reduciendo errores y tiempos de atencion.
-- Optimizar la administracion de asientos, asegurando un uso eficiente.
-- Promover la cultura cinematografica en la comunidad universitaria mediante un espacio organizado y accesible. 
+- Ofrecer un sistema de registro y administración de usuarios que maneje distintas categorías (estudiante, docente, administrativo, externo).
+- Controlar la disponibilidad de películas, horarios y funciones en tiempo real. 
+- Automatizar la gestión de reservas de entradas, reduciendo errores y tiempos de atención.
+- Optimizar la administración de asientos, asegurando un uso eficiente.
+- Promover la cultura cinematográfica en la comunidad universitaria mediante un espacio organizado y accesible. 
 - Garantizar una buena experiencia mediante el uso de una interfaz de consola clara, intuitiva y estructurada.
 
 Beneficios: 
 
-- Facilita el acceso al serivicio sin necesidad de tramites manuales.
+- Facilita el acceso al serivicio sin necesidad de trámites manuales.
 - Mejora la experiencia del usuario al ofrecer un sistema claro y confiable. 
-- Permite obtener informacion estadistica sobre la asistencia y los ingresos
+- Permite obtener información estadística sobre la asistencia y los ingresos
 - Brinda a la comunidad universitaria un espacio cultural y recreativo.
-- El sistema puede adaptarse a futuras mejoras, como incluir mas salas, funciones o integracion con plataformas graficas
-- Se tiene una disponibilidad inmediata de la informacion ya que los datos se actualizan en tiempo real y estan listos para consultas instantaneas.
+- El sistema puede adaptarse a futuras mejoras, como incluir más salas, funciones o integración con plataformas gráficas
+- Se tiene una disponibilidad inmediata de la información ya que los datos se actualizan en tiempo real y están listos para consultas instantáneas.
 
 
 </div>
