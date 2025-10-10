@@ -86,7 +86,7 @@ Programa:
 
 Habilidades:
 - Trabajo en equipo: intento adapatarme fácilmente.
-- Aprendizaje rápido: tengo buena capaciadad para retener información.
+- Aprendizaje rápido: tengo buena capacidad para retener información.
 - Pensamiento analítico: tengo facilidad para descomponer problemas en pasos más simples y encontrar soluciones lógicas.
 
 Fortalezas: 
