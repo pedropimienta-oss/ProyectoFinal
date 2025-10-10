@@ -218,25 +218,25 @@ Beneficios:
 
 Inversión por hora: $7,115
 
-Inversión total del trabajo (50 horas): $355,750
+Inversión total del trabajo (200 horas): $1'423,000
 
 **Alejandro Torres**
 
 Inversión por hora: $7,115
 
-Inversión total del trabajo (50 horas): $355,750
+Inversión total del trabajo (200 horas): $1'423,000
 
 **Pedro Pimienta**
 
 Inversión por hora: $7,115
 
-Inversión total del trabajo (50 horas): $355,750
+Inversión total del trabajo (200 horas): $1'423,000
 
 **Inversión grupal**
 
 Inversión por hora: $21,345
 
-Inversión total del trabajo (50 horas): $1'067,250
+Inversión total del trabajo (200 horas): $4'423,000
 
 
 
