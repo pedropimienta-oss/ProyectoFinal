@@ -236,7 +236,7 @@ Inversión total del trabajo (200 horas): $1'423,000
 
 Inversión por hora: $21,345
 
-Inversión total del trabajo (200 horas): $4'423,000
+Inversión total del trabajo (200 horas): $4'269,000
 
 
 
