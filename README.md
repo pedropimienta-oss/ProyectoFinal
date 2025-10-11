@@ -216,27 +216,27 @@ Beneficios:
 
 **Veronika Calvache**
 
-Inversión por hora: $7,115
+Inversión por semana (10 horas): $71,150
 
-Inversión total del trabajo (200 horas): $1'423,000
+Inversión total del trabajo (16 semanas): $1'138,400
 
 **Alejandro Torres**
 
-Inversión por hora: $7,115
+Inversión por semana (10 horas): $71,150
 
-Inversión total del trabajo (200 horas): $1'423,000
+Inversión total del trabajo (16 semanas): $1'138,400
 
 **Pedro Pimienta**
 
-Inversión por hora: $7,115
+Inversión por semana (10 horas): $71,150
 
-Inversión total del trabajo (200 horas): $1'423,000
+Inversión total del trabajo (16 semanas): $1'138,400
 
 **Inversión grupal**
 
-Inversión por hora: $21,345
+Inversión por semana (10 horas): $213,450
 
-Inversión total del trabajo (200 horas): $4'269,000
+Inversión total del trabajo (16 semanas): $3'415,200
 
 
 
